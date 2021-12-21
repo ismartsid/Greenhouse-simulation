@@ -10,7 +10,7 @@ How it works:
 ---
 This project is based on realizing IoT based greenhouse farming where the temperature, humidity and soil moisture is monitored to help the crops/plants grow in an ideal environment. DHT11 sensor is used to monitor temperature and humidity. A DC operated fan is used to bring the temperature of the surroundings to a desired value and soil moisture is used to balance the moisture content in the soil using a motor pump. Arduino UNO acts as the processing unit to collect the sensor output and to control the conditions. The data from the Arduino is presented on the LCD display.  For remote reception of data and to realize IoT we have interfaced a Xbee module both in the transmitting and receiving side. Through the Xbee module, relevant status of the farm’s environment is monitored. Finally, an RTC timer circuit is connected to Arduino UNO to get the time.
 
-![Greenhouse](https://user-images.githubusercontent.com/85611307/146880460-802030e6-7b25-498f-a6d6-75aa27eccae5.png)
+<img alt="Greenhouse" src="https://user-images.githubusercontent.com/85611307/146880937-ec4224b5-16b7-4da4-8e68-9328028b4564.png">
 
 
 Algorithm:
